@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>web personal</title>
-    <link>http://example.org/</link>
+    <link>https://cesde-suroeste.github.io/web-personal/</link>
     <description>Recent content on web personal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
-    <lastBuildDate>Thu, 06 Oct 2022 13:23:08 -0500</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 06 Oct 2022 13:23:08 -0500</lastBuildDate><atom:link href="https://cesde-suroeste.github.io/web-personal/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Segundo Servicio</title>
-      <link>http://example.org/servicios/segundo-servicio/</link>
+      <link>https://cesde-suroeste.github.io/web-personal/servicios/segundo-servicio/</link>
       <pubDate>Thu, 06 Oct 2022 13:23:08 -0500</pubDate>
       
-      <guid>http://example.org/servicios/segundo-servicio/</guid>
+      <guid>https://cesde-suroeste.github.io/web-personal/servicios/segundo-servicio/</guid>
       <description>Cuenta Corriente en USD
 Ábrela desde Internet en solo minutos. Recibe pagos en USD y retira tu dinero en cualquier lugar a través de la red de cajeros ACH más grande del mundo.</description>
     </item>
     
     <item>
       <title>Primer Servicio</title>
-      <link>http://example.org/servicios/primer-servicio/</link>
+      <link>https://cesde-suroeste.github.io/web-personal/servicios/primer-servicio/</link>
       <pubDate>Thu, 06 Oct 2022 13:19:54 -0500</pubDate>
       
-      <guid>http://example.org/servicios/primer-servicio/</guid>
+      <guid>https://cesde-suroeste.github.io/web-personal/servicios/primer-servicio/</guid>
       <description>Crea tarjetas físicas y virtuales para administrar tus pagos.
 Giropayco es una plataforma digital que permite abrir cuentas corrientes en dólares y mover tu dinero alrededor del mundo.</description>
     </item>
     
     <item>
       <title>Contacto</title>
-      <link>http://example.org/contacto/</link>
+      <link>https://cesde-suroeste.github.io/web-personal/contacto/</link>
       <pubDate>Thu, 06 Oct 2022 13:15:20 -0500</pubDate>
       
-      <guid>http://example.org/contacto/</guid>
+      <guid>https://cesde-suroeste.github.io/web-personal/contacto/</guid>
       <description>Este es mi sitio web oficial.</description>
     </item>
     

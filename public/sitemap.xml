@@ -2,25 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/servicios/segundo-servicio/</loc>
+    <loc>https://cesde-suroeste.github.io/web-personal/servicios/segundo-servicio/</loc>
     <lastmod>2022-10-06T13:23:08-05:00</lastmod>
   </url><url>
-    <loc>http://example.org/servicios/</loc>
+    <loc>https://cesde-suroeste.github.io/web-personal/servicios/</loc>
     <lastmod>2022-10-06T13:23:08-05:00</lastmod>
   </url><url>
-    <loc>http://example.org/</loc>
+    <loc>https://cesde-suroeste.github.io/web-personal/</loc>
     <lastmod>2022-10-06T13:23:08-05:00</lastmod>
   </url><url>
-    <loc>http://example.org/servicios/primer-servicio/</loc>
+    <loc>https://cesde-suroeste.github.io/web-personal/servicios/primer-servicio/</loc>
     <lastmod>2022-10-06T13:19:54-05:00</lastmod>
   </url><url>
-    <loc>http://example.org/contacto/</loc>
+    <loc>https://cesde-suroeste.github.io/web-personal/contacto/</loc>
     <lastmod>2022-10-06T13:15:20-05:00</lastmod>
   </url><url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://cesde-suroeste.github.io/web-personal/categories/</loc>
   </url><url>
-    <loc>http://example.org/series/</loc>
+    <loc>https://cesde-suroeste.github.io/web-personal/series/</loc>
   </url><url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://cesde-suroeste.github.io/web-personal/tags/</loc>
   </url>
 </urlset>
